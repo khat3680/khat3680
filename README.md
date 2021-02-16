@@ -4,7 +4,8 @@
 **khat3680/khat3680** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
 
 Here are some ideas to get you started:
-_ 💻 Looking for Fall 2021 Co-op / Internship.
+
+- 💻 Looking for Fall 2021 Co-op / Internship.
 - 🔭 I’m currently working on Implementing a ML model on Andriod using React.
 - 🌱 I’m currently learning Javascript Essentials.
 - 👯 I’m looking to collaborate on a React Application.
