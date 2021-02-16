@@ -14,4 +14,4 @@ _ 💻 Looking for Fall 2021 Co-op / Internship.
                 LinkedIn: https://www.linkedin.com/in/anshul-khatri-certified-full-stack-developer-78b078195/
                
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am not who you think, more than that lol :)
+- ⚡ Fun fact: Would love to debug you code, or any help just hit me up. :)
