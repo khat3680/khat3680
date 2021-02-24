@@ -14,4 +14,4 @@
                 LinkedIn: https://www.linkedin.com/in/anshul-khatri-certified-full-stack-developer-78b078195/
                
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Would love to debug your code, or any help just hit me up. :)
+- ⚡ Fun fact: Would love to debug your code, or for any help just hit me up. :)
