@@ -12,6 +12,7 @@
 - 💬 Ask me about React.Js, Javascript, Node.Js, Python, C, C++ and SASS.
 - 📫 Reach me:  Instagram:  @lifeofanshul  | Email: mailto:anshulskhatri@gmail.com  
                 LinkedIn: https://www.linkedin.com/in/anshul-khatri-certified-full-stack-developer-78b078195/
-               
+              
+              ** Resume: ** https://drive.google.com/file/d/1TknsrzEppYPt1biUx7y_3HGcaezysvpL/view?usp=sharing
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Would love to debug your code, or for any help just hit me up. :)
