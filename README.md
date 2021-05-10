@@ -5,7 +5,7 @@
 
 
 - 💻 Looking for Fall 2021 Co-op / Internship.
-- 🔭 I’m currently working on Implementing a ML model on Andriod using React.
+- 🔭 I’m currently working on a Website for One Last Studios.
 - 🌱 I’m currently learning Javascript Essentials.
 - 👯 I’m looking to collaborate on a React Application.
 - 🤔 I’m looking for help with Azure Cloud 
