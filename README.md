@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a Website for One Last Studios.
 - 🌱 I’m currently learning Javascript Essentials.
 - 👯 I’m looking to collaborate on a React Application.
-- 🤔 I’m looking for help with Azure Cloud 
+- 🤔 I’m looking for help with AWS 
 - 💬 Ask me about React.Js, Javascript, Node.Js, Python, C, C++ and SASS.
 - 📫 Reach me:  Instagram:  @lifeofanshul  | Email: mailto:anshulskhatri@gmail.com  
                 LinkedIn: https://www.linkedin.com/in/anshul-khatri-certified-full-stack-developer-78b078195/
