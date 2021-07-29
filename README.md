@@ -16,4 +16,4 @@
   Resume : https://drive.google.com/file/d/1TknsrzEppYPt1biUx7y_3HGcaezysvpL/view?usp=sharing
                 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Would love to connect with you, Send me Hi on LinkedIn :)
+- ⚡ Fun fact:  :)
