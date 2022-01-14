@@ -13,7 +13,7 @@
 - 📫 Reach me:  Instagram:  @lifeofanshul  | Email: anshulskhatri@gmail.com  
                 LinkedIn: https://www.linkedin.com/in/anshul-khatri-certified-full-stack-developer-78b078195/
 
-  Resume : https://drive.google.com/file/d/1TknsrzEppYPt1biUx7y_3HGcaezysvpL/view?usp=sharing
+  Resume : https://drive.google.com/file/d/1IsN8af4s3QqFHf7OicCIQbV7TxYNzhyf/view?usp=sharing
                 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact:  :)
